@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Cuantos dias de vacaciones le corresponden a un trabajador en Chile?",
+    "ground_truth": "Un trabajador con mas de un año de servicio tiene derecho a un feriado anual de quince dias habiles con remuneracion integra, segun el Art. 67 del Codigo del Trabajo.",
+    "contexts": ["feriado anual de quince dias habiles con remuneracion integra"]
+  },
+  {
+    "question": "Cual es la jornada maxima de trabajo semanal en Chile?",
+    "ground_truth": "La duracion maxima de la jornada ordinaria de trabajo es de cuarenta y cinco horas semanales, distribuida en no menos de cinco ni en mas de seis dias.",
+    "contexts": ["jornada ordinaria de trabajo cuarenta y cinco horas semanales"]
+  },
+  {
+    "question": "Que plazo tiene el empleador para pagar las indemnizaciones por despido?",
+    "ground_truth": "El empleador debe pagar las indemnizaciones en un plazo maximo de treinta dias habiles contados desde la fecha de termino del contrato.",
+    "contexts": ["indemnizaciones plazo treinta dias"]
+  },
+  {
+    "question": "Cuales son los derechos basicos del consumidor en Chile?",
+    "ground_truth": "Los derechos basicos incluyen la libre eleccion del bien o servicio, el derecho a informacion veraz y oportuna, el derecho a no ser discriminado, la seguridad en el consumo, y el derecho a reparacion e indemnizacion.",
+    "contexts": ["derechos basicos del consumidor libre eleccion informacion"]
+  },
+  {
+    "question": "Que es el derecho a retracto en compras online en Chile?",
+    "ground_truth": "El consumidor tiene derecho a retractarse de una compra realizada a distancia dentro de los 10 dias siguientes a la recepcion del producto, sin expresion de causa.",
+    "contexts": ["retracto compra distancia diez dias"]
+  },
+  {
+    "question": "Que establece la Ley 21.719 sobre proteccion de datos personales?",
+    "ground_truth": "La Ley 21.719 regula la proteccion y el tratamiento de los datos personales y crea la Agencia de Proteccion de Datos Personales. Establece principios como licitud, finalidad, proporcionalidad, y calidad de los datos.",
+    "contexts": ["proteccion tratamiento datos personales Agencia"]
+  },
+  {
+    "question": "Que derechos tiene el titular de datos personales segun la ley chilena?",
+    "ground_truth": "El titular tiene derecho de acceso, rectificacion, cancelacion, oposicion y portabilidad de sus datos personales.",
+    "contexts": ["acceso rectificacion cancelacion oposicion portabilidad"]
+  },
+  {
+    "question": "Cual es el periodo de prueba en un contrato de trabajo en Chile?",
+    "ground_truth": "Los contratos a plazo fijo pueden tener una duracion maxima de un año, o dos años para gerentes o personas con titulo profesional o tecnico. No existe un periodo de prueba formal en la legislacion chilena.",
+    "contexts": ["contrato plazo fijo duracion"]
+  },
+  {
+    "question": "Como se calcula la indemnizacion por años de servicio?",
+    "ground_truth": "La indemnizacion equivale a treinta dias de la ultima remuneracion mensual devengada por cada año de servicio y fraccion superior a seis meses, con un tope de trescientos treinta dias de remuneracion (once años).",
+    "contexts": ["indemnizacion treinta dias ultima remuneracion año servicio"]
+  },
+  {
+    "question": "Que proteccion tiene la trabajadora embarazada en Chile?",
+    "ground_truth": "La trabajadora embarazada goza de fuero maternal desde la concepcion hasta un año despues de expirado el descanso de maternidad. Durante este periodo no puede ser despedida sin autorizacion judicial previa.",
+    "contexts": ["fuero maternal embarazada descanso maternidad"]
+  },
+  {
+    "question": "Cual es el plazo para reclamar ante el SERNAC?",
+    "ground_truth": "El consumidor puede interponer un reclamo ante el SERNAC cuando considere que sus derechos han sido vulnerados por un proveedor de bienes o servicios.",
+    "contexts": ["reclamo SERNAC derechos consumidor proveedor"]
+  },
+  {
+    "question": "Que es el descanso de maternidad en Chile?",
+    "ground_truth": "La trabajadora tiene derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas despues de el, con subsidio que corresponda.",
+    "contexts": ["descanso maternidad seis semanas antes doce semanas despues"]
+  },
+  {
+    "question": "Que sanciones establece la ley de datos personales por infracciones?",
+    "ground_truth": "Las infracciones pueden ser leves, graves o gravisimas. Las sanciones incluyen multas que van desde 1 a 5.000 UTM para infracciones leves, hasta 10.001 a 20.000 UTM para infracciones gravisimas.",
+    "contexts": ["infracciones sanciones multas UTM"]
+  },
+  {
+    "question": "Cuando se puede despedir a un trabajador sin indemnizacion?",
+    "ground_truth": "Se puede despedir sin indemnizacion por causales como conducta indebida de caracter grave, negociaciones incompatibles, falta de asistencia injustificada, abandono del trabajo, actos que afecten la seguridad, e incumplimiento grave de obligaciones contractuales.",
+    "contexts": ["causales despido conducta indebida falta asistencia abandono"]
+  },
+  {
+    "question": "Que obligaciones tiene el responsable de datos personales?",
+    "ground_truth": "El responsable debe tratar los datos con licitud, informar al titular sobre el tratamiento, adoptar medidas de seguridad, y reportar vulneraciones de seguridad a la Agencia de Proteccion de Datos.",
+    "contexts": ["responsable datos licitud seguridad vulneraciones Agencia"]
+  }
+]

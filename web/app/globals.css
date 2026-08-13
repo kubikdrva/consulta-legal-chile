@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #fafafa;
+  --fg: #111;
+  --muted: #666;
+  --border: #e5e5e5;
+  --accent: #111;
+  --surface: #fff;
+  --surface-hover: #f5f5f5;
+  --source-bg: #f7f7f7;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a0a0a;
+    --fg: #ededed;
+    --muted: #888;
+    --border: #222;
+    --accent: #ededed;
+    --surface: #111;
+    --surface-hover: #1a1a1a;
+    --source-bg: #141414;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--fg);
+  color: var(--bg);
+}
